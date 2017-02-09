@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=mannschaften\ gruppierungen
+comment0.target=JTableGruppierung(kickercup.xml.Mannschaften,\ kickercup.xml.Gruppierungen)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ JTableGruppierung\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ \ \ \ public\ Vector<Gruppierung>\ getVectorGruppierung1(){\r\n\ \ \ \ \ \ \ \ return\ vGruppierung;\r\n\ \ \ \ }\ \ \ \ \r\n
+comment2.params=table
+comment2.target=void\ initColumnSizes(javax.swing.JTable)
+comment2.text=\r\n\ This\ method\ picks\ good\ column\ sizes.\r\n\ If\ all\ column\ heads\ are\ wider\ than\ the\ column's\ cells'\r\n\ contents,\ then\ you\ can\ just\ use\ column.sizeWidthToFit().\r\n
+comment3.params=table\ sportColumn\ listMannschaft
+comment3.target=void\ setMannschaftColumnLeft(javax.swing.JTable,\ javax.swing.table.TableColumn,\ java.util.List)
+comment3.text=\r\n\ Auswahlliste\ f\u00FCr\ Mannschaften\ wird\ gef\u00FCllt.\r\n
+comment4.params=table\ sportColumn\ listMannschaft
+comment4.target=void\ setMannschaftColumnRight(javax.swing.JTable,\ javax.swing.table.TableColumn,\ java.util.List)
+numComments=5

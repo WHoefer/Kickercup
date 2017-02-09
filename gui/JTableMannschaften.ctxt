@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=mannschaften
+comment0.target=JTableMannschaften(kickercup.xml.Mannschaften)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=table
+comment2.target=void\ initColumnSizes(javax.swing.JTable)
+comment2.text=\r\n\ This\ method\ picks\ good\ column\ sizes.\r\n\ If\ all\ column\ heads\ are\ wider\ than\ the\ column's\ cells'\r\n\ contents,\ then\ you\ can\ just\ use\ column.sizeWidthToFit().\r\n
+comment3.params=table\ geschlechtColumn
+comment3.target=void\ setGeschlechtColumn(javax.swing.JTable,\ javax.swing.table.TableColumn)
+comment4.params=table\ sportColumn
+comment4.target=void\ setKlasseColumn(javax.swing.JTable,\ javax.swing.table.TableColumn)
+comment5.params=table\ column
+comment5.target=void\ setColumn(javax.swing.JTable,\ javax.swing.table.TableColumn)
+numComments=6

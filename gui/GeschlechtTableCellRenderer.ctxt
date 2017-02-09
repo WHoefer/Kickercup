@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=table\ obj\ isSelected\ hasFocus\ row\ column
+comment0.target=java.awt.Component\ getTableCellRendererComponent(javax.swing.JTable,\ java.lang.Object,\ boolean,\ boolean,\ int,\ int)
+numComments=1

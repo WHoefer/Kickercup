@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pathFile
+comment0.target=Gruppierungen(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Gruppierungen\r\n
+comment1.params=liste
+comment1.target=void\ update(java.util.List)
+comment2.params=vGruppierung
+comment2.target=void\ update(java.util.Vector)
+comment3.params=
+comment3.target=java.util.List\ selectAll()
+comment3.text=\r\n\ Method\ selectAll\r\n\r\n\ @return\ The\ return\ value\r\n
+comment4.params=
+comment4.target=java.util.Vector\ selectAllAsVector()
+comment4.text=\r\n\ Method\ selectAllAsVector\r\n\r\n\ @return\ The\ return\ value\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

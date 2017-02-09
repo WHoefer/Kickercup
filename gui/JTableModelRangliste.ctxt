@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=JTableModelRangliste(java.util.List)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ JTableRangliste\r\n
+comment1.params=
+comment1.target=int\ getColumnCount()
+comment2.params=
+comment2.target=int\ getRowCount()
+comment3.params=col
+comment3.target=java.lang.String\ getColumnName(int)
+comment4.params=row\ col
+comment4.target=java.lang.Object\ getValueAt(int,\ int)
+comment5.params=c
+comment5.target=java.lang.Class\ getColumnClass(int)
+comment5.text=\r\n\ JTable\ uses\ this\ method\ to\ determine\ the\ default\ renderer/\r\n\ editor\ for\ each\ cell.\ \ If\ we\ didn't\ implement\ this\ method,\r\n\ then\ the\ last\ column\ would\ contain\ text\ ("true"/"false"),\r\n\ rather\ than\ a\ check\ box.\r\n
+numComments=6

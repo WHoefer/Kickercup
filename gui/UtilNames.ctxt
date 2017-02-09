@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=mannschaft
+comment0.target=java.lang.String\ getLeft(kickercup.xml.Mannschaft)
+comment1.params=val
+comment1.target=java.lang.String\ getIdFromLeft(java.lang.String)
+comment2.params=val
+comment2.target=java.lang.String\ getGeschlechtFromLeft(java.lang.String)
+comment3.params=mannschaft
+comment3.target=java.lang.String\ getRight(kickercup.xml.Mannschaft)
+comment4.params=val
+comment4.target=java.lang.String\ getIdFromRight(java.lang.String)
+comment5.params=val
+comment5.target=java.lang.String\ getGeschlechtFromRight(java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
